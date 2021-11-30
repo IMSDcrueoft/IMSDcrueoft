@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IMSDcrueoft
 - 👀 I’m interested in C++,DirectX,Game Development
-- 🌱 I’m currently learning "Improving the Design of Existing Code"
+- 🌱 I’m currently learning "DirectX 12 3D programming"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
