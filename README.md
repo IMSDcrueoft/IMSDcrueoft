@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IMSDcrueoft
-- 👀 I’m interested in C++,DirectX,Game Development
-- 🌱 I’m currently learning "DirectX 12 3D programming"
-- 💞️ I’m about to graduate from university
+- 👀 I’m interested in C++,Rendering,Game Development
+- 🌱 I’m currently learning DirectX 12,Shader and 3D graphics.
+- 💞️ I'm currently working in a game company.
 - 📫 How to reach me ...
 
 <!---
