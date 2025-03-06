@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IMSDcrueoft
-- 👀 I’m interested in C++,Rendering,Game Development
-- 🌱 I’m currently learning DirectX 12,Shader and 3D graphics.
+- 👀 I’m interested in C,CPP,JavaScript,Compiler,Interpreter,Rendering and Game Development
+- 🌱 I’m currently learning interpreter
 - 💞️ I'm currently working in a game company.
 - 📫 How to reach me ...
 
