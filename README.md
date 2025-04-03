@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IMSDcrueoft
-- 👀 I’m interested in C,CPP,JavaScript,Compiler,Interpreter,Rendering and Game Development
+- 👀 I’m interested in C/CPP,JavaScript/TypeScript,Compiler/Interpreter,3D Rendering and Game Development
 - 🌱 I’m currently learning interpreter
 - 💞️ I'm currently working in a game company.
 - 📫 How to reach me: imsd_personal@outlook.com
