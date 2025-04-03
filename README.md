@@ -2,7 +2,7 @@
 - 👀 I’m interested in C,CPP,JavaScript,Compiler,Interpreter,Rendering and Game Development
 - 🌱 I’m currently learning interpreter
 - 💞️ I'm currently working in a game company.
-- 📫 How to reach me ...
+- 📫 How to reach me: imsd_personal@outlook.com
 
 <!---
 IMSDcrueoft/IMSDcrueoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
