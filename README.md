@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IMSDcrueoft
 - 👀 I’m interested in C/CPP,JavaScript/TypeScript,Compiler/Interpreter,3D Rendering and Game Development
 - 🌱 I’m currently learning interpreter
-- 💞️ I'm currently working in a game company.
+- 💞️ I'm currently focusing on loxFlux project.
 - 📫 How to reach me: imsd_personal@outlook.com
 
 <!---
